@@ -1,2 +1,2 @@
 # SpawnBrainrotFE
-![main](https://github.com/Hub-land/SpawnBrainrotFE)
+![npm](https://github.com/Hub-land/SpawnBrainrotFE)
