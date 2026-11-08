@@ -1,2 +1,2 @@
 # SpawnBrainrotFE
-Un script para spawnear brainrots FE
+![main](https://github.com/Hub-land/SpawnBrainrotFE)
